@@ -7,3 +7,4 @@ easierApp
 zmiana08
 zmiana09
 zmiana12
+zmiana10
